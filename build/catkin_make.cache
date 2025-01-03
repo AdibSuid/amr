@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/df/amr/devel -DCMAKE_INSTALL_PREFIX=/home/df/amr/install -G Unix Makefiles
